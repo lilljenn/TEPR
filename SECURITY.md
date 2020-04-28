@@ -14,8 +14,4 @@ currently being supported with security updates.
 
 ## Reporting a Vulnerability
 
-Use this section to tell people how to report a vulnerability.
-
-Tell them where to go, how often they can expect to get an update on a
-reported vulnerability, what to expect if the vulnerability is accepted or
-declined, etc.
+Security policies are discussed on the Privacy page. Any reported vulnerabilities will be listed, as well as any precautions that may be taken. While TEPR does not collect any personally identifiable information, privacy is still an important concern. 
